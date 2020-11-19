@@ -1,0 +1,3 @@
+def print_full_name(a, b):
+    '''Read name and lastname in one specified line'''
+    print("Hello %s %s! You just delved into python."%(a, b))
